@@ -1,0 +1,39 @@
+/*my second css*/
+
+body{
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #D96690;
+}
+
+h1{
+    border: 20px solid red;
+    color:seagreen
+}
+
+blockquote{
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1rem;
+    font-style: italic;
+}
+
+cite{
+    font-size: 1.5rem;
+}
+
+.bigush{
+    font-weight:bold;
+    font-size: 1.3rem;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style:italic;
+    font-weight: bold;
+}
+
+ol{
+    color: orange;
+}
+
